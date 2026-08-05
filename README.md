@@ -36,3 +36,34 @@ I am a **QA Automation Engineer & SDET** passionate about building robust, scala
 ---
 
 ### 💡 Featured AI & Automation Projects
+
+┌─────────────────────────────────────────────────────────────────────────┐
+│  🤖 playwright_AI_MCP                                                   │
+│  Integrating Agentic AI workflows and Model Context Protocols (MCP)     │
+│  with Playwright automation framework.                                  │
+└─────────────────────────────────────────────────────────────────────────┘
+
+* 🎭 **[playwright-automation-ts](./playwright-automation-ts)** — Modern UI automation framework built with Playwright and TypeScript, emphasizing clean architecture and scalable execution.
+* 🤖 **[playwright_AI_MCP](./playwright_AI_MCP)** — Experimental playground integrating AI models, agentic concepts, and MCP with end-to-end testing.
+* 🐍 **[python-ai-learning-](./python-ai-learning-)** — Deep dive into Python development and AI-assisted quality engineering strategies.
+* ✈️ **[Emirates-Automation](./Emirates-Automation) & [Emirates_API](./Emirates_API)** — Comprehensive domain testing & robust REST API automation suites.
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide=html,css" width="48%" />
+
+</div>
+
+---
+
+<div align="center">
+
+**"Quality is not an act, it is a habit."**  
+*Explore my repositories to check out my frameworks, AI experiments, and code samples.*
+
+</div>
