@@ -3,8 +3,8 @@
 # 👋 Hi, I'm Ram Sayana
 ### **SDET & QA Automation Engineer | AI in Testing Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ram-sayana-ab5a59179/?skipRedirect=true)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ramusayana/Ram-Sayana)
 [![Portfolio](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="80%" alt="Contributions Snake" />
